@@ -17,10 +17,10 @@ Os arquivo de configuração da página estão em: \\vitoria\Repositorio\produca
 - main.js
 - style.css
 
-Para atualizar o arquivo HTML da página acesse com o navegador Internet Explorer: https://novaintranet.stf.jus.br/ > Sistemas Administrativos > Admin > 
+Para atualizar o arquivo index.html do projeto na página do portal STF, acesse com o navegador Internet Explorer: https://novaintranet.stf.jus.br/ > Sistemas Administrativos > Admin > 
 
 Clique em listar no item "Central do Cidadão - Acesso à informação - Gestão Estratégica";
 
 Irá abrir algumas opções de páginas, vá em Gestão Estratégica (título) e principal (identificação);
 
-Clique na opção "Código-Fonte";
+Clique na opção "Código-Fonte" e susbstitua todo o código fonte;
